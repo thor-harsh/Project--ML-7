@@ -12,4 +12,4 @@ Logistic Regression is a statistical method for analyzing a dataset in which the
 </table>
 
 
-**So what are you waiting for...? Jump to the code to get started. As usual for any doubt see you in pull request section. Thanks!**
+**So what are you waiting for...? Jump to the code to get started. As usual for any doubt see you in pull request section 😁😂. Thanks!**
