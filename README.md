@@ -2,7 +2,7 @@
 
 <table>
   
-  **In this project we will build Logistic Regression Model for classifying Purchased as 0(not purchased) or 1(purchased) based on differenet features in Social_Network_Ads dataset**.<br></br>
+  **In this project we will build Logistic Regression Model for classifying Purchased as 0(not purchased) or 1(purchased) based on different features in Social_Network_Ads dataset**.<br></br>
 
 Logistic regression is a classification technique borrowed by machine learning from the field of statistics.<br>
 Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome.
